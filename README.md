@@ -59,3 +59,12 @@ Ahmia
 ```
 http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
 ```
+## chat rooms
+Ableonion
+```
+notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion
+```
+Black Hat Chat
+```
+http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion
+```
