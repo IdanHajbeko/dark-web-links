@@ -4,6 +4,10 @@ A list of helpful links I found for the dark web
 <br>***note:*** Some of the content here can lead you to some illegal  websites. so the use of those links is on you!
 # The list:
 ## Hidden wikis/ sites with links:
+Darkweblink.com
+```
+http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion/
+```
 OnionLinks
 ```
 http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion
